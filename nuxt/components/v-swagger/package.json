@@ -54,6 +54,6 @@
   },
   "homepage": "https://github.com/easylogic/v-swagger#readme",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^1.7.2"
   }
 }
